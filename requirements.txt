@@ -1,0 +1,7 @@
+transformers==4.35.0
+datasets==2.15.0
+torch==2.1.0
+evaluate==0.4.1
+rouge-score==0.1.2
+nltk==3.8.1
+pandas==2.1.4
