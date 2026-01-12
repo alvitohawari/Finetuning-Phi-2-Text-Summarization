@@ -20,7 +20,7 @@ Task Number 3 for Finalterm Deep Learning (Group 16)
 | Name | NIM | 
 |------|-----|
 | **[NAFAL RIFKY]** | [1103223106] | 
-| **[Alvito Kiflan]** | [1103220235] | 
+| **[Alvito Kiflan Hawari]** | [1103220235] | 
 
 ### 📥 Download Pre-trained Models
 
