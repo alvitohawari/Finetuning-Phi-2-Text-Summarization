@@ -11,20 +11,20 @@ Task Number 3 for Finalterm Deep Learning (Group 16)
 ## 👥 Team Information
 
 ### Group Information
-- **Group**: Group [Your Group Number]
+- **Group**: Group [16]
 - **Course**: Deep Learning
 - **Institution**: Telkom University
 
 ### Team Members
 
-| Name | NIM | Role |
-|------|-----|------|
-| **[Your Name]** | [Your NIM] | Project Lead, Model Development |
-| **[Partner Name]** | [Partner NIM] | Data Preprocessing, Evaluation |
+| Name | NIM | 
+|------|-----|
+| **[NAFAL RIFKY]** | [1103223106] | 
+| **[Alvito Kiflan]** | [1103220235] | 
 
 ### 📥 Download Pre-trained Models
 
-**Google Drive Link**: [Download Fine-tuned Models](https://drive.google.com/drive/folders/[YOUR_DRIVE_FOLDER_ID]?usp=sharing)
+**Google Drive Link**: [Download Fine-tuned Models](https://drive.google.com/drive/folders/1YLiWXZf86xVBpECgfGiyKB0X_Xwpq3av?usp=sharing)
 
 The Google Drive folder contains the complete fine-tuned model weights and adapters. Download and extract them to the `phi2-xsum-finetuned/final_model/` directory to use the pre-trained model for inference.
 
